@@ -1,0 +1,4 @@
+Do you know, and/or remember MIT App Inventor? It has this one template/tutorial called HelloPurr, so.. 
+
+I decided to do what every sane person would do! Make it look better.
+Yeah so basically I added a background and some text and alignments, it is definitely comfier now..
