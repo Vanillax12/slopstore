@@ -2,6 +2,8 @@
 
 a tiny static APK store powered by GitHub Pages.
 
+
+# to use it fork and remove all apps from the apps folder
 ## structure
 
 put your apps inside `apps/`:
